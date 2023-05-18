@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ybrk3?tab=repositories](https://github.com/ybrk3?tab=repositories)
 
-- 📫 How to reach me **www.linkedin.com/in/burak-yildirim-pmp-60871545**
+- <imgsrc="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="burak-yildirim-pmp-60871545" height="30" width="40" /> 📫 How to reach me **www.linkedin.com/in/burak-yildirim-pmp-60871545**
 
 - 📫 How to reach me **yildirimburak@windowslive.com**
 
