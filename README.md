@@ -7,7 +7,7 @@
 
 - <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="burak-yildirim-pmp-60871545" height="15" width="15" /> How to reach me **www.linkedin.com/in/burak-yildirim-pmp-60871545**
 
-- <img src="[[https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.iconfinder.com%2Ficons%2F2697658%2Fapple_mail_email_envelope_inbox_message_send_icon&psig=AOvVaw1Gim0kKjbwyjyUB9WV9rsR&ust=1684512732273000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCIjB2Imh__4CFQAAAAAdAAAAABAJ)](https://cdn0.iconfinder.com/data/icons/apple-apps/100/Apple_Mail-512.png)" alt="burak-yildirim-pmp-60871545" height="15" width="15" /> How to reach me **yildirimburak@windowslive.com**
+- 📫 How to reach me **yildirimburak@windowslive.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
