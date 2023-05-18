@@ -9,9 +9,9 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ybrk3?tab=repositories](https://github.com/ybrk3?tab=repositories)
 
-- 📫 How to reach me **www.linkedin.com/in/burak-yildirim-pmp-60871545**
+- 📫 How to reach me: **www.linkedin.com/in/burak-yildirim-pmp-60871545**
 
-- 📫 How to reach me **yildirimburak@windowslive.com**
+- 📫 How to reach me: **yildirimburak@windowslive.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
