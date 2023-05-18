@@ -1,7 +1,21 @@
+github profile markdown generator logo
+GitHub Profile README Generator
+Star this repo
+15751
+Fork on GitHub
+4350
+
+back to edit
+
+copy-markdown
+
+download markdown
+
+download backup
+
+markdown
 <h1 align="center">Hi 👋, I'm Burak</h1>
 <h3 align="center">A passionate developer from Turkey</h3>
-
-<p align="left"> <a href="https://twitter.com/brkkyldrm" target="blank"><img src="https://img.shields.io/twitter/follow/brkkyldrm?logo=twitter&style=for-the-badge" alt="brkkyldrm" /></a> </p>
 
 - 🔭 I’m currently working on [ECommerce API](https://github.com/ybrk3/ECommerceAPI)
 
@@ -9,16 +23,16 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/ybrk3?tab=repositories](https://github.com/ybrk3?tab=repositories)
 
-- 📫 How to reach me: **www.linkedin.com/in/burak-yildirim-pmp-60871545**
+- 📫 How to reach me **linkedin.com/in/burak-yildirim-pmp-60871545**
 
-- 📫 How to reach me: **yildirimburak@windowslive.com**
+- 📫 How to reach me **yildirimburak@windowslive.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/brkkyldrm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="brkkyldrm" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/burak-yildirim-pmp-60871545" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="burak-yildirim-pmp-60871545" height="30" width="40" /></a>
 <a href="https://instagram.com/brkkyldrm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="brkkyldrm" height="30" width="40" /></a>
-<a href="https://medium.com/@bbrkyldrm1990" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@bbrkyldrm" height="30" width="40" /></a>
+<a href="https://medium.com/@bbrkyldrm1990" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@bbrkyldrm1990" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -29,3 +43,28 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ybrk3&show_icons=true&locale=en" alt="ybrk3" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ybrk3&theme=default" alt="ybrk3" /></p>
+
+Support 🙏
+Are you using the tool and happy with it to create your GitHub Profile?
+Your kind support keeps open-source tools like this free for others.
+tweet github profile readme generator
+Let the world know how you feel using this tool. Share with others on twitter.
+Tip💰
+Buy ko-fi for rahuldkjainBuy me a ko-fi
+Donate rahuldkjain via paypal
+Buy rahuldkjain A CoffeeBuy me a coffee
+github profile markdown generator logo
+GitHub Profile README Generator
+Pages
+Addons
+Support
+About
+More
+Github
+Releases
+Issues
+Pull Requests
+Join Community
+Discord of the community
+Developed in India 🇮🇳
+Buy Me A Coffee
