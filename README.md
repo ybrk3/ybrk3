@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Burak</h1>
-<h3 align="center">A passionate developer from Turkey</h3>
 
 - 🔭 I’m currently working on [ECommerce API](https://github.com/ybrk3/ECommerceAPI) & [ECommerce UI](https://github.com/ybrk3/ECommerceUI)
 
